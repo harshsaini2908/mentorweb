@@ -66,7 +66,7 @@
   "deploy": "gh-pages -d build",
   
     
-  "build": "react-scripts build",
+  "build": "npx react-scripts build",
   
     
   "test": "react-scripts test",
